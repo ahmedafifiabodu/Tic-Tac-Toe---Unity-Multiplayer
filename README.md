@@ -2,6 +2,10 @@
 
 Welcome to the Tic Tac Toe Multiplayer Game repository! This project is a multiplayer version of the classic Tic Tac Toe game, built using the FishNet networking library. The game allows multiple players to connect and play against each other in real-time.
 
+<div align="center">
+  <video src="https://github.com/user-attachments/assets/d4c68923-bc88-486c-b922-f8b3706c1926" width="400" />
+</div>
+
 ## Features
 
 - **Multiplayer Support**: Play Tic Tac Toe with friends or other players online.
